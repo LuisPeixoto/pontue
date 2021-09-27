@@ -8,7 +8,7 @@ Aplicativo para o desafio técnico da Pontue.
 ![prints.png](prints.png)
 
 ## APK do aplicativo
-link do apk do aplicativo [pontue.apk](https://github.com/LuisPeixoto/pontue/releases/download/pontue/pontue.apk)
+Link do apk do aplicativo: [pontue.apk](https://github.com/LuisPeixoto/pontue/releases/download/pontue/pontue.apk)
 
 ## Instalação
 
