@@ -7,12 +7,15 @@ Aplicativo para o desafio técnico da Pontue.
 
 ![prints.png](prints.png)
 
+## APK do aplicativo
+link do apk do aplicativo [pontue.apk](https://github.com/LuisPeixoto/pontue/releases/download/pontue/pontue.apk)
+
 ## Instalação
 
 ### Clone do repositório
 
 ```bash
-$ https://github.com/LuisPeixoto/pontue
+$ git clone https://github.com/LuisPeixoto/pontue
 
 $ cd pontue
 ```
